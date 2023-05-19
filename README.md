@@ -1,18 +1,16 @@
 
 # Drum kit website
 
-A website where you play with intrumental sounds.Sounds are play when you press any key which is represting the website home screen.
+A website where you can play with intrumental sounds.Sounds are play when you press any key which is represting the website home screen.
 Every key plays different sounds.
-
-
-
-
 
 ## Demo
 
-Insert gif or link to demo
+This is a picture of Drum kit website. 👇
+
+![Uploading Drum kit website.png…]()
 
 
 ## 🚀 About Me
-I'm a frontend developer👨‍💻. I have a skill of frontend development along with web functionality, web accessibility, 😀performance optimization and seo basics.
+👋Hi, I'm a Ansh Mittal frontend developer👨‍💻. I have a skill of frontend development along with web functionality, web accessibility, 😀performance optimization and seo basics.
 
