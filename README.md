@@ -8,7 +8,9 @@ Every key plays different sounds.
 
 This is a picture of Drum kit website. 👇
 
-![Uploading Drum kit website.png…]()
+
+![Drum kit website](https://github.com/Anshmittal86/Drum-kit-website/assets/114221412/28598056-2df0-4803-98d3-87c3e2beac10)
+
 
 
 ## 🚀 About Me
